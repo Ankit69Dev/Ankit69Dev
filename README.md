@@ -101,6 +101,12 @@ public:
 
 ## 📊 GitHub Universe
 
+<p align="center"> <a href="https://github.com/Ankit69Dev"> <img src="https://img.shields.io/badge/GitHub-Ankit69Dev-181717?style=for-the-badge&logo=github" /> </a> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ankit69Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Ankit69Dev GitHub Stats" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit69Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
