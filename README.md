@@ -9,7 +9,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=💻+C%2B%2B+Developer;🚀+Future+Software+Engineer;🧠+Problem+Solver;🔥+DSA+Enthusiast;🌐+Web+Developer;✨+Always+Learning" />
+  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Future+Software+Engineer;Problem+Solver;DSA+Enthusiast;Web+Developer;Always+Learning" alt="Typing SVG" />
+  </a>
+</p>
 </p>
 
 <p align="center">
@@ -98,7 +103,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankit69Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit69Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit69Dev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
@@ -131,11 +136,11 @@ public:
 <p align="center">
 
 <a href="https://github.com/Ankit69Dev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit69Dev&repo=Smart-Trip-Planner_1&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit69Dev&repo=AI-Expense-Tracker&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Ankit69Dev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=AI-Mood_Journal&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Ankit-Portfolio&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
