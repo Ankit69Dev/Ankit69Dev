@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  👋 Hey, I'm <span style="color:#00FFFF;">YOUR NAME</span>
+  👋 Hey, I'm <span style="color:#00FFFF;">Ankit Pandey!</span>
 </h1>
 
 <p align="center">
@@ -32,9 +32,9 @@ class Developer {
 
 public:
 
-    string name = "YOUR NAME";
+    string name = "Ankit Pandey";
     string role = "Developer";
-    string language = "C++";
+    string language = "React";
 
     void introduce() {
 
@@ -45,7 +45,7 @@ public:
 ```
 
 🔭 **Currently working on:** Cool projects
-🌱 **Currently learning:** C++, DSA & Web Development
+🌱 **Currently learning:** Python, DSA & Web Development
 💡 **Interested in:** Software Engineering & Open Source
 🎯 **Goal:** Become a better developer every day
 ⚡ **Fun fact:** `while(alive) { keep_coding(); }`
@@ -57,7 +57,7 @@ public:
 ## 🖥️ Terminal
 
 ```text
-┌──(YOUR_NAME㉿github)-[~]
+┌──(Ankit69Dev)-[~]
 └─$ whoami
 
 > Developer
@@ -65,7 +65,7 @@ public:
 > Problem Solver
 > Tech Enthusiast
 
-┌──(YOUR_NAME㉿github)-[~]
+┌──(Ankit69Dev)-[~]
 └─$ ./motivation.sh
 
 🚀 Learn
@@ -85,7 +85,7 @@ public:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-Expert-blue?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git"/>
 </p>
@@ -109,7 +109,7 @@ public:
 ## 🔥 Coding Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" />
+  <img src="https://streak-stats.demolab.com?user=Ankit69Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" />
 </p>
 
 ---
@@ -119,7 +119,7 @@ public:
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ankit69Dev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
 </p>
 
 ---
@@ -130,12 +130,12 @@ public:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Ankit69Dev">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit69Dev&repo=Smart-Trip-Planner_1&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Ankit69Dev">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=AI-Mood_Journal&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
@@ -147,7 +147,7 @@ public:
 ## 🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ankit69Dev/Ankit69Dev/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -157,7 +157,7 @@ public:
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&radius=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit69Dev&theme=tokyo-night&hide_border=true&area=true&radius=15"/>
 </p>
 
 ---
@@ -188,15 +188,15 @@ public:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Ankit69Dev">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="nkedin.com/in/ankit-pandey0304/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:pandeyankit0581@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
