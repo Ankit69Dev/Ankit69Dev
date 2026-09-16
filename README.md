@@ -4,17 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&fontSize=40&animation=twinkling&color=gradient" />
 </p>
 
-<h1 align="center">
-  👋 Hey, I'm <span style="color:#00FFFF;">Ankit Pandey!</span>
-</h1>
+<h1 align="center">👋 Hey, I'm Ankit Pandey!</h1>
 
-<p align="center">
-  
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=React+Developer;Future+Software+Engineer;Problem+Solver;DSA+Enthusiast;Web+Developer;Always+Learning" alt="Typing SVG" />
   </a>
-</p>
 </p>
 
 <p align="center">
@@ -22,8 +17,6 @@
 </p>
 
 ---
-
-<!-- ===================== ABOUT ===================== -->
 
 ## ⚡ About Me
 
@@ -34,15 +27,13 @@
 using namespace std;
 
 class Developer {
-
 public:
 
     string name = "Ankit Pandey";
-    string role = "Developer";
-    string language = "React";
+    string role = "React Developer";
+    string passion = "Web Development";
 
     void introduce() {
-
         cout << "Hello World! 🚀" << endl;
         cout << "Building something awesome..." << endl;
     }
@@ -56,8 +47,6 @@ public:
 ⚡ **Fun fact:** `while(alive) { keep_coding(); }`
 
 ---
-
-<!-- ===================== ANIMATED TERMINAL ===================== -->
 
 ## 🖥️ Terminal
 
@@ -81,23 +70,19 @@ public:
 
 ---
 
-<!-- ===================== SKILLS ===================== -->
-
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,mysql,git,github,vscode,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,react,html,css,js,mysql,git,github,vscode,linux&perline=6" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
-
-<!-- ===================== STATS ===================== -->
 
 ## 🌌 GitHub Universe
 
@@ -119,6 +104,7 @@ public:
   🚀 <b>Building projects • Learning technologies • Solving problems</b> 🚀
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
@@ -126,17 +112,16 @@ public:
   <img src="./profile/stats.svg" width="48%" alt="GitHub Stats" />
   <img src="./profile/languages.svg" width="48%" alt="Top Languages" />
 </p>
+
 ---
 
 ## 🔥 Coding Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankit69Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" />
+  <img src="https://streak-stats.demolab.com?user=Ankit69Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" alt="GitHub Streak" />
 </p>
 
 ---
-
-<!-- ===================== TROPHIES ===================== -->
 
 ## 🏆 Achievements
 
@@ -150,8 +135,6 @@ public:
 </p>
 
 ---
-
-<!-- ===================== PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
@@ -173,39 +156,40 @@ public:
 
 ---
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-
 ## 🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Ankit69Dev/Ankit69Dev/output/github-contribution-grid-snake-dark.svg">
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Ankit69Dev/Ankit69Dev/output/github-contribution-grid-snake.svg">
+```
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/Ankit69Dev/Ankit69Dev/output/github-contribution-grid-snake-dark.svg">
 
-    <img
-      src="https://raw.githubusercontent.com/Ankit69Dev/Ankit69Dev/output/github-contribution-grid-snake.svg"
-      alt="Contribution Snake">
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/Ankit69Dev/Ankit69Dev/output/github-contribution-grid-snake.svg">
+
+<img
+  src="https://raw.githubusercontent.com/Ankit69Dev/Ankit69Dev/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake">
+```
+
   </picture>
 </p>
 
 ---
 
-<!-- ===================== ACTIVITY ===================== -->
-
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit69Dev&theme=tokyo-night&hide_border=true&area=true&radius=15"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit69Dev&theme=tokyo-night&hide_border=true&area=true&radius=15"
+    alt="Contribution Activity"
+  />
 </p>
 
 ---
-
-<!-- ===================== RANDOM DEV ===================== -->
 
 ## 💭 Developer Mode
 
@@ -225,34 +209,28 @@ public:
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
-
 ## 🌐 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/Ankit69Dev">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="nkedin.com/in/ankit-pandey0304/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ankit-pandey0304/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pandeyankit0581@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=gradient"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=gradient"/>
 </p>
 
 <h3 align="center">
