@@ -109,7 +109,6 @@ public:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" width="48%" alt="GitHub Stats" />
   <img src="./profile/languages.svg" width="48%" alt="Top Languages" />
 </p>
 
@@ -175,16 +174,6 @@ public:
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit69Dev&theme=tokyo-night&hide_border=true&area=true&radius=15"
-    alt="Contribution Activity"
-  />
-</p>
-
----
 
 ## 💭 Developer Mode
 
