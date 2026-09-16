@@ -101,11 +101,26 @@ public:
 
 ## 📊 GitHub Universe
 
-<p align="center"> <a href="https://github.com/Ankit69Dev"> <img src="https://img.shields.io/badge/GitHub-Ankit69Dev-181717?style=for-the-badge&logo=github" /> </a> </p>
+## 🌌 GitHub Universe
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ankit69Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Ankit69Dev GitHub Stats" /> </p>
+<p align="center">
+  <a href="https://github.com/Ankit69Dev">
+    <img src="https://img.shields.io/badge/Repositories-Explore-00FFFF?style=for-the-badge&logo=github" />
+  </a>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit69Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
+  <a href="https://github.com/Ankit69Dev?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-Explore-FFD700?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://github.com/Ankit69Dev?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-Explore-8A2BE2?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  🚀 <b>Building projects • Learning technologies • Solving problems</b> 🚀
+</p>
+
 
 ## 📊 GitHub Stats
 
