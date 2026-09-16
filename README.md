@@ -12,7 +12,7 @@
   
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Future+Software+Engineer;Problem+Solver;DSA+Enthusiast;Web+Developer;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=React+Developer;Future+Software+Engineer;Problem+Solver;DSA+Enthusiast;Web+Developer;Always+Learning" alt="Typing SVG" />
   </a>
 </p>
 </p>
@@ -101,12 +101,11 @@ public:
 
 ## 📊 GitHub Universe
 
+## 📊 GitHub Stats
+
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit69Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit69Dev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit69Dev&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit69Dev&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -124,7 +123,12 @@ public:
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ankit69Dev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Ankit69Dev&theme=matrix"
+      alt="GitHub Trophies"
+    />
+  </a>
 </p>
 
 ---
@@ -135,13 +139,19 @@ public:
 
 <p align="center">
 
-<a href="https://github.com/Ankit69Dev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit69Dev&repo=AI-Expense-Tracker&theme=tokyonight&hide_border=true"/>
-</a>
+  <a href="https://github.com/Ankit69Dev/AI-Expense-Tracker">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit69Dev&repo=AI-Expense-Tracker"
+      alt="AI Expense Tracker"
+    />
+  </a>
 
-<a href="https://github.com/Ankit69Dev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Ankit-Portfolio&theme=tokyonight&hide_border=true"/>
-</a>
+  <a href="https://github.com/Ankit69Dev/Ankit-Portfolio">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit69Dev&repo=Ankit-Portfolio"
+      alt="Ankit Portfolio"
+    />
+  </a>
 
 </p>
 
