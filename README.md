@@ -139,19 +139,17 @@ public:
 
 <p align="center">
 
-  <a href="https://github.com/Ankit69Dev/AI-Expense-Tracker">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit69Dev&repo=AI-Expense-Tracker"
-      alt="AI Expense Tracker"
-    />
-  </a>
+<a href="https://github.com/Ankit69Dev/AI-Expense-Tracker">
+  <img src="https://img.shields.io/badge/AI%20Expense%20Tracker-View%20Project-00FFFF?style=for-the-badge&logo=github" />
+</a>
 
-  <a href="https://github.com/Ankit69Dev/Ankit-Portfolio">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit69Dev&repo=Ankit-Portfolio"
-      alt="Ankit Portfolio"
-    />
-  </a>
+<a href="https://github.com/Ankit69Dev/Skill-X">
+  <img src="https://img.shields.io/badge/Skill--X-View%20Project-00FFFF?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/Ankit69Dev/Weather-app">
+  <img src="https://img.shields.io/badge/Weather%20App-View%20Project-00FFFF?style=for-the-badge&logo=github" />
+</a>
 
 </p>
 
