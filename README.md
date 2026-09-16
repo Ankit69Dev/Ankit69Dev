@@ -99,8 +99,6 @@ public:
 
 <!-- ===================== STATS ===================== -->
 
-## 📊 GitHub Universe
-
 ## 🌌 GitHub Universe
 
 <p align="center">
@@ -125,10 +123,9 @@ public:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit69Dev&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit69Dev&layout=compact&theme=tokyonight" width="48%" />
+  <img src="./profile/stats.svg" width="48%" alt="GitHub Stats" />
+  <img src="./profile/languages.svg" width="48%" alt="Top Languages" />
 </p>
-
 ---
 
 ## 🔥 Coding Streak
