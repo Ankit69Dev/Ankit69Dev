@@ -126,13 +126,16 @@ public:
 ## 🏆 Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Ankit69Dev&theme=matrix"
-      alt="GitHub Trophies"
-    />
-  </a>
+
+<a href="https://github.com/Ankit69Dev?tab=repositories"> <img src="https://img.shields.io/badge/🚀_Projects-Explore-00FFFF?style=for-the-badge" /> </a>
+
+<a href="https://github.com/Ankit69Dev?tab=stars"> <img src="https://img.shields.io/badge/⭐_Stars-Explore-FFD700?style=for-the-badge" /> </a>
+
+<a href="https://github.com/Ankit69Dev?tab=followers"> <img src="https://img.shields.io/badge/👥_Followers-Explore-8A2BE2?style=for-the-badge" /> </a>
+
 </p>
+
+<p align="center"> <b>💻 Building • 🚀 Learning • 🧠 Solving • 🌱 Growing</b> </p>
 
 ---
 
