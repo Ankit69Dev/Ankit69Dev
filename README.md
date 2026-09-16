@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Ankit69Dev&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ public:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git"/>
 </p>
@@ -98,9 +98,9 @@ public:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ankit69Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit69Dev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </p>
 
